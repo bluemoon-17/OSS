@@ -35,3 +35,9 @@
 4. 그림 외우기
 
 5. >, -am, --oneline, checkout, detached, alias, A B
+   1. > - 리다이렉션 - 명령 결과를 파일로 저장
+   2. -am - 변경된 파일을 스테이징하고 커밋
+   3. --oneline - 커밋 내역을 한 줄싹 간결하게 출
+   4. checkout - 다른 브랜치나 특정 커밋으로 이용
+   5. detached - git checkout <커밋 해시>로 특정 커밋에 이동하면 Detached HEAD 상태가 됩니다.
+   6. alias - 긴 git 명령어 간단히 단축
